@@ -66,6 +66,7 @@ for they are better comprehended when practising.
    - [gitalias](https://github.com/GitAlias/gitalias)
  * [Advanced Git Tricks :clapper:](https://vimeo.com/49444883)
  * [Git Patterns and Anti-Patterns](https://dzone.com/refcardz/git-patterns-and-anti-patterns?chapter=1)
+ * [commits => readable history => changelog => semver](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
  * [Oh shit, git!](http://ohshitgit.com/)
  * [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
  * [GitHub Learning Lab](https://lab.github.com/courses):
